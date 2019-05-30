@@ -40,5 +40,8 @@
         "single"
       ]
     }
+  },
+  "dependencies": {
+    "node-sass": "^4.12.0"
   }
 }
