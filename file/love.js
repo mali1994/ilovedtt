@@ -169,7 +169,7 @@
             ctx.moveTo(0, 0);
             ctx.scale(0.75, 0.75);
             ctx.font = "12px 微软雅黑,Verdana"; // 字号肿么没有用? (ˉ(∞)ˉ)
-            ctx.fillText("来点一下，小姐姐", 23, 10);
+            ctx.fillText("来吧！小可爱", 23, 10);
             ctx.restore();
         },
         clear: function() {
